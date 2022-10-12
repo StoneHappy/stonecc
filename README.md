@@ -1,4 +1,5 @@
-# my_cpp_empty_project
+# stonecc
+A mini X86 compiler
 
 ## how to use it
 ```bash
